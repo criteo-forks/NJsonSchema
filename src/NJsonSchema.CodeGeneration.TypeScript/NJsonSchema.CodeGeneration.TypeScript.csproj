@@ -6,6 +6,7 @@
 
   <PropertyGroup>
     <DocumentationFile>bin\$(Configuration)\$(TargetFramework)\$(AssemblyName).xml</DocumentationFile>
+    <VersionSuffix>criteo1</VersionSuffix>
   </PropertyGroup>
 
   <ItemGroup>
